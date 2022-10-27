@@ -1,7 +1,6 @@
 # miniprojet
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/medamineBH1/miniprojet/main?filepath=index.ipynb)
-
 ## Presentation :page_facing_up:
 
  ceci est un prototype de projet en analyse de donnée
