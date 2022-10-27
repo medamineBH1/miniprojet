@@ -1,2 +1,4 @@
-numy
+numpy
 matplotib
+pandas
+tabulate
